@@ -3,14 +3,12 @@ Edusphere: AI and Web Integrated Platform for Cognitive Learning
 Overview
 EduSphere is an AI-powered web platform designed to improve personalized learning and streamline academic workflows for students and instructors. The system integrates machine learning and web technologies to enhance content accessibility, automate attendance tracking, and improve data reliability.
 
-
 Problem Statement
 Traditional academic systems rely heavily on manual processes for attendance tracking, document verification, and content access. These inefficiencies lead to:
 * Increased manual effort for instructors
 * Errors in attendance and document validation
 * Limited access to personalized learning resources
 EduSphere addresses these challenges by leveraging AI to automate workflows and improve decision-making.
-
 
 Solution
 EduSphere provides:
@@ -42,27 +40,26 @@ Instructor Features
 * CNN and CNN+LSTM models for attendance-related tasks (up to 89.12% accuracy)
 
  Tech Stack
-* **Frontend:** React.js
-* **Backend:** Node.js, Flask
-* **Database:** MongoDB, PostgreSQL
-* **ML/AI:** Python, Scikit-learn, NLP models
+* Frontend: React.js
+* Backend: Node.js, Flask
+* Database: MongoDB, PostgreSQL
+* ML/AI: Python, Scikit-learn, NLP models
 
 Results
-* Achieved **100% accuracy** in document verification using SVM and KNN
+* Achieved 100% accuracy in document verification using SVM and KNN
 * Improved efficiency of attendance tracking and reduced manual errors
 * Enhanced accessibility of learning resources through AI integration
-* Contributed to an **IEEE-published research paper**
+* Contributed to an IEEE-published research paper
 
 Publication
 "EduSphere: AI and Web Integrated Platform for Cognitive Learning"
 Published in IEEE AMATHE 2025 Conference
-[Link to paper]
 
 Future Improvements
 * Integration of advanced LLM-based learning assistants
 * Real-time analytics for performance prediction
 * Scalable deployment for large educational institutions
 
- Author
+Author
 Swati Sujeet Ulligeri
 MS Data Science, Arizona State University
