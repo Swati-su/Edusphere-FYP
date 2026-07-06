@@ -1,0 +1,68 @@
+Edusphere: AI and Web Integrated Platform for Cognitive Learning
+
+Overview
+EduSphere is an AI-powered web platform designed to improve personalized learning and streamline academic workflows for students and instructors. The system integrates machine learning and web technologies to enhance content accessibility, automate attendance tracking, and improve data reliability.
+
+
+Problem Statement
+Traditional academic systems rely heavily on manual processes for attendance tracking, document verification, and content access. These inefficiencies lead to:
+* Increased manual effort for instructors
+* Errors in attendance and document validation
+* Limited access to personalized learning resources
+EduSphere addresses these challenges by leveraging AI to automate workflows and improve decision-making.
+
+
+Solution
+EduSphere provides:
+* A student interface for accessing AI-powered learning tools
+* An instructor dashboard for monitoring performance and managing attendance
+* Automated systems to improve efficiency and reduce errors
+
+
+ Features
+
+Student Features
+* Text summarization for learning materials
+* Question-answering system for quick doubt resolution
+* Web scraping for relevant educational content
+
+Instructor Features
+* Dashboard to track student performance and engagement
+* Automated attendance management system
+* Activity monitoring for improved academic insights
+
+ Document Verification
+* Image-based document validation system
+* Detects authenticity of submitted documents (e.g., medical certificates)
+* Reduces manual verification effort and improves reliability
+
+ Machine Learning Components
+* NLP-based summarization and Q&A models
+* Image classification models (SVM, KNN) for document verification
+* CNN and CNN+LSTM models for attendance-related tasks (up to 89.12% accuracy)
+
+ Tech Stack
+* **Frontend:** React.js
+* **Backend:** Node.js, Flask
+* **Database:** MongoDB, PostgreSQL
+* **ML/AI:** Python, Scikit-learn, NLP models
+
+Results
+* Achieved **100% accuracy** in document verification using SVM and KNN
+* Improved efficiency of attendance tracking and reduced manual errors
+* Enhanced accessibility of learning resources through AI integration
+* Contributed to an **IEEE-published research paper**
+
+Publication
+"EduSphere: AI and Web Integrated Platform for Cognitive Learning"
+Published in IEEE AMATHE 2025 Conference
+[Link to paper]
+
+Future Improvements
+* Integration of advanced LLM-based learning assistants
+* Real-time analytics for performance prediction
+* Scalable deployment for large educational institutions
+
+ Author
+Swati Sujeet Ulligeri
+MS Data Science, Arizona State University
